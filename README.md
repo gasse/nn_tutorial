@@ -33,9 +33,8 @@ jupyter notebook
 # Notebooks
 
 Suivez les notebooks suivants, dans l'ordre:
-1. `pytorch.ipynb`
-2. `mnist_from_scratch.ipynb`
-3. `mnist.ipynb`
+1. `from_scratch.ipynb`
+2. `mnist.ipynb`
 
 Rendu: vos notebooks avec votre code, réponse aux questions et résultats.
 
